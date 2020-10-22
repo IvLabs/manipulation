@@ -1,3 +1,4 @@
+Date:22/10/2020.  Time:10pm
 1)Started from good evening.
 2)followed by introduction of 2nd yrs and the topic. 
 3)Aadesh gave information about Osama Khalid.
