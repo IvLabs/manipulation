@@ -3,14 +3,12 @@
 - [Date 30-10-2020](#date-30-10-2020)
 
 ## Date 22-10-2020
-* Started from good evening.
-* followed by introduction of 2nd yrs and the topic. 
-* Aadesh gave information about Osama Khalid.
+* Mentors gave information about Osama Khalid.
 * Aim of this week: To watch lecture 1 & 2 in detail.
 * Make notes.(hand written)
 * https://see.stanford.edu/Course/CS223A
-* Aditya gave introduction about project and issue tab in github.
-* End with good night
+* Mentors gave introduction about project and issue tab in github.
+
 
 ## Date 30-10-2020
 * Doubt 1 = why we perform  **Homogenization** ?
