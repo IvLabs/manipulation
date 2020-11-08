@@ -32,7 +32,7 @@
 * There are 12 no. of ways to attend any oriantation using Eular angles as well as Fixed angles method.
 * Rotation matrix about an axis. 
 * Parameter K ( which is vector ) in Equivalent angle axis representation.
-* Eulers Parameter , why we need that parameters  ?.
+* Eulers Parameter , why we need that parameters  ?
       - To avoid singularity problem .
 * The last Example using cosine angles. 
 
