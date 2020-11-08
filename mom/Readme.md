@@ -33,7 +33,7 @@
 * Rotation matrix about an axis. 
 * Parameter K ( which is vector ) in Equivalent angle axis representation.
 * Eulers Parameter , why we need that parameters  ?
-      - To avoid singularity problem .
+     - To avoid singularity problem .
 * The last Example using cosine angles. 
 
 * TO DO .
