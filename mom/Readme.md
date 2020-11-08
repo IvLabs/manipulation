@@ -1,7 +1,7 @@
 # Table of contents
 - [Date 22-10-2020](#date-22-10-2020)
 - [Date 30-10-2020](#date-30-10-2020)
-- [Date 30-10-2020](#date-07-11-2020)
+- [Date 07-11-2020](#date-07-11-2020)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
