@@ -35,7 +35,6 @@
 * Eulers Parameter , why we need that parameters  ?
      - To avoid singularity problem .
 * The last Example using cosine angles.
-
 * TO DO .
     - post the values of cosine angles on discord.
     - find the sign convention for that angles.
