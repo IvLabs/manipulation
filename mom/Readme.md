@@ -45,10 +45,10 @@
     
  
 ## Date 22-11-2020
-* maintain proper DOC
-* Have direct communication with mentors and teammates not thorugh any third party(like voltaire).
-* After complition of khatib lectures we have to make PPT explaining things learned.
-* Like rohan sir showed a pipeline we will also have create similar pipeline for our project. 
-* Doubt from previous meet (aboutend-effector angle) explained.
+* Maintain proper DOC
+* Have direct communication with mentors and teammates avoid any third party apps(like voltaire).
+* After completion of khatib lectures we have to make PPT explaining things learned.
+* Like rohan sir showed a pipeline we will also have to create similar pipeline for our project. 
+* Doubt from previous meet (about end-effector angle) explained.
 * Video shared further explaining [DH parameters.](https://www.youtube.com/watch?v=nuB_7BkYNMk)
 
