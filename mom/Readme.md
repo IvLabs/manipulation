@@ -2,7 +2,7 @@
 - [Date 22-10-2020](#date-22-10-2020)
 - [Date 30-10-2020](#date-30-10-2020)
 - [Date 07-11-2020](#date-07-11-2020)
-- [Date 23-11-2020](#date-23-11-2020)
+- [Date 22-11-2020](#date-22-11-2020)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -44,7 +44,7 @@
     - Slove Assignment.
     
  
-## Date 23-11-2020
+## Date 22-11-2020
 * maintain proper DOC
 * Have direct communication with mentors and teammates not thorugh any third party(like voltaire).
 * After complition of khatib lectures we have to make PPT explaining things learned.
