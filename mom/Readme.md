@@ -3,6 +3,7 @@
 - [Date 30-10-2020](#date-30-10-2020)
 - [Date 07-11-2020](#date-07-11-2020)
 - [Date 22-11-2020](#date-22-11-2020)
+- [Date 17-12-2020](#date-17-12-2020)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -51,4 +52,16 @@
 * Like rohan sir showed a pipeline we will also have to create similar pipeline for our project. 
 * Doubt from previous meet (about end-effector angle) explained.
 * Video shared further explaining [DH parameters.](https://www.youtube.com/watch?v=nuB_7BkYNMk)
+
+## Date 17-12-2020
+* Target: 
+    * Complete Oussama khatib lecture series and then start inverse kinematics( Lecture with vision can be excluded)
+    * Simulation of 3R joint arm using python.
+* Questions:
+    1. Should we use CPP or python for simulation ?
+    Conclusion: Will use cpp for final hardware implementation and python will be used as of now for 3R.
+    2. Difference between simulation and animation?
+    Conclusion: Animation is basically a dynamic graph kind of thing whereas in simulation realtime differential equations are solved to get future values.
+* As we are free now our learning pace should increase.
+    
 
