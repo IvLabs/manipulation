@@ -4,6 +4,7 @@
 - [Date 07-11-2020](#date-07-11-2020)
 - [Date 22-11-2020](#date-22-11-2020)
 - [Date 17-12-2020](#date-17-12-2020)
+- [Date 29-12-2020](#date-29-12-2020)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -63,5 +64,15 @@
     2. Difference between simulation and animation?
     Conclusion: Animation is basically a dynamic graph kind of thing whereas in simulation realtime differential equations are solved to get future values.
 * As we are free now our learning pace should increase.
-    
+
+## Date 29-12-2020
+
+    1.Complete 3R From Scratch upto 10 December.
+    2. Complete the Dynamics parallel with 3R with Gravity.
+    3. Learn Py-Bullet
+    4. Make Solidwork  Model
+    5. Take it on Py-Bullet.
+    -----
+*   TO-DO
+    Complete 3R forward Kinematics in python within 3-4 days.
 
