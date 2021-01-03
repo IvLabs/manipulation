@@ -76,3 +76,8 @@
 *   TO-DO
     Complete 3R forward Kinematics in python within 3-4 days.
 
+## Date 03-01-2021
+
+* Implement Newton Tapshon Method to find teh sol of quadratic
+* Finish oussama khatib leacture series
+* Finish Inverse kinematics leacture
