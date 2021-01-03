@@ -5,6 +5,7 @@
 - [Date 22-11-2020](#date-22-11-2020)
 - [Date 17-12-2020](#date-17-12-2020)
 - [Date 29-12-2020](#date-29-12-2020)
+- [Date 03-01-2021](#date-03-01-2021)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
