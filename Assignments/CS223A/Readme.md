@@ -4,3 +4,4 @@
 - [Assignment 2 ](https://github.com/IvLabs/manipulation/blob/main/Assignments/CS223A/Assignment2.ipynb)
 - Assignment 3
 - [Assignment 4](https://github.com/IvLabs/manipulation/blob/main/Assignments/CS223A/Assignment4.ipynb)
+- [Assignment 5](https://github.com/IvLabs/manipulation/blob/main/Assignments/CS223A/Assignment5.ipynb)
