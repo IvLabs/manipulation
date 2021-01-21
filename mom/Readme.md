@@ -6,6 +6,8 @@
 - [Date 17-12-2020](#date-17-12-2020)
 - [Date 29-12-2020](#date-29-12-2020)
 - [Date 03-01-2021](#date-03-01-2021)
+- [Date 20-01-2021](#date-20-01-2021)
+
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -82,3 +84,13 @@
 * Implement Newton Tapshon Method to find teh sol of quadratic
 * Finish oussama khatib leacture series
 * Finish Inverse kinematics leacture
+
+## Date 20-01-2021
+* 1. Work
+* 2. To find Family of motors which to be used for the hardware purpose.
+* 3. Coding language must be same in all.
+* 4. Planning and algorithms...
+     *    learn algorithms and implement.
+     *    CAD model of arm... learn gazebo
+     *    Else work simultaneously in all.
+
