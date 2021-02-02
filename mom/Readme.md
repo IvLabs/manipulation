@@ -93,4 +93,10 @@
      *    learn algorithms and implement.
      *    CAD model of arm... learn gazebo
      *    Else work simultaneously in all.
-
+     
+## Date 01-02-2021
+* Install Pybullet
+* Start the pybullet tutorial on youtube ( there is only one )
+* complete ROS wiki tutorial upto 15
+* Complete the assignment of ROS
+* Do this Stuff in one week , next meet in the next week
