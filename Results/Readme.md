@@ -6,4 +6,4 @@
 ![Inverse by NR](https://github.com/IvLabs/manipulation/blob/main/Results/NR_M.gif)
 ![Inverse by GD](https://github.com/IvLabs/manipulation/blob/main/Results/GD_M.gif)
 ![Inverse by Nr](https://github.com/IvLabs/manipulation/blob/main/Results/inverse-kinematics.gif)
-![St.line](https://github.com/IvLabs/manipulation/blob/main/Results/inverse-kinematics.gif)
+![St.line](https://github.com/IvLabs/manipulation/blob/main/Results/st_line.gif)
