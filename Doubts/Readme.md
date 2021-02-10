@@ -6,3 +6,4 @@
 - [Doubts of L7](https://docs.google.com/document/d/1ddiSp29-8lxNCESfYSx5l6fQIZI9X4WFMXLdSHu3g6E/edit?usp=sharing)
 - [Doubts of L8](https://docs.google.com/document/d/1qXZQsuQnfmAQQzUcFut3iWXclquO9pa56HKDaqFDR1w/edit#heading=h.sfi5xu6eozt6)
 - [Doubts of L10](https://docs.google.com/document/d/1WpZl42JqZE-SeKaSsuoFKnD-LImn8xTVwvd6gHK932s/edit?usp=sharing)
+- [Doubts of L11 to L16](https://docs.google.com/document/d/1iBV0NXLX3vq7r522TA4vjbDP_k66YO5N4cb84406Fh0/edit?usp=sharing)
