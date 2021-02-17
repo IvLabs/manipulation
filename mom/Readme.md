@@ -8,6 +8,7 @@
 - [Date 03-01-2021](#date-03-01-2021)
 - [Date 20-01-2021](#date-20-01-2021)
 - [Date 01-02-2021](#date-01-02-2021)
+- [Date 14-02-2021](#date-14-02-2021)
 
 
 ## Date 22-10-2020
@@ -101,3 +102,10 @@
 * complete ROS wiki tutorial upto 15
 * Complete the assignment of ROS
 * Do this Stuff in one week , next meet in the next week
+
+## Date 14-02-2021
+* Implementing slider in pybullet
+* Complete ROS assignment
+* Do pybullet tutorial on vscode
+* Follow ![Quick start guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit) for pybullet
+* Use Kuka UR5 for simulation
