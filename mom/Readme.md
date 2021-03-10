@@ -123,6 +123,6 @@
      * Go from one point to another point -- a) Joint Space   b) Task Space
      * Task Space : we can do path planning in it
      * make your Code to Transofrmation Matrix, X_dest , X_current, planning of Transformation
-      * Screw --- St. Line
-      * both SImultaneously but performed differently
-      * Normal Method for inverse
+     * Screw --- St. Line
+     * both SImultaneously but performed differently
+     * Normal Method for inverse
