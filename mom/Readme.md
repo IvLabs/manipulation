@@ -9,6 +9,7 @@
 - [Date 20-01-2021](#date-20-01-2021)
 - [Date 01-02-2021](#date-01-02-2021)
 - [Date 14-02-2021](#date-14-02-2021)
+- [Date 09-03-2021](#date-09-03-2021)
 
 
 ## Date 22-10-2020
@@ -109,3 +110,19 @@
 * Do pybullet tutorial on vscode
 * Follow ![Quick start guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit) for pybullet
 * Use Kuka UR5 for simulation
+
+## Date 09-03-2021
+* ROS acts as a bridge between your code and Hardware
+* Solidworks -- URDF , SDF , Xacro
+     * urdf + STL file = Simulation
+     * SDF - Simulation Friendly
+     * Xacro - makes easier i.e seprate files for each class
+* RRBOT 
+* pybullet 
+     * design path
+     * Go from one point to another point -- a) Joint Space   b) Task Space
+     * Task Space : we can do path planning in it
+     * make your Code to Transofrmation Matrix, X_dest , X_current, planning of Transformation
+               * Screw --- St. Line
+               * both SImultaneously but performed differently
+               * Normal Method for inverse
