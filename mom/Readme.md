@@ -10,6 +10,7 @@
 - [Date 01-02-2021](#date-01-02-2021)
 - [Date 14-02-2021](#date-14-02-2021)
 - [Date 09-03-2021](#date-09-03-2021)
+- [Date 24-03-2021](#date-24-03-2021)
 
 
 ## Date 22-10-2020
@@ -126,3 +127,8 @@
      * Screw --- St. Line
      * both SImultaneously but performed differently
      * Normal Method for inverse
+
+## Date 24-03-2021
+* doubts solved for pid control
+* doubt regarding tragectory following and control solved
+* how to convert xacro to urdf ? use command `xacro ur5_robot_name.urdf.xacro > ur5_robot_name.urdf`
