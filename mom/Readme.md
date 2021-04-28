@@ -134,7 +134,7 @@
 * doubt regarding tragectory following and control solved
 * how to convert xacro to urdf ? use command `xacro ur5_robot_name.urdf.xacro > ur5_robot_name.urdf`
 
-## Date 24-03-2021
+## Date 28-04-2021
 * Generate Trajectory for the simulation
 * Try to solve pick and place in 4 steps
      * Position by inverse Kinematics and apply PID control
