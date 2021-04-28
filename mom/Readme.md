@@ -11,6 +11,7 @@
 - [Date 14-02-2021](#date-14-02-2021)
 - [Date 09-03-2021](#date-09-03-2021)
 - [Date 24-03-2021](#date-24-03-2021)
+- [Date 28-04-2021](#date-28-04-2021)
 
 
 ## Date 22-10-2020
@@ -132,3 +133,11 @@
 * doubts solved for pid control
 * doubt regarding tragectory following and control solved
 * how to convert xacro to urdf ? use command `xacro ur5_robot_name.urdf.xacro > ur5_robot_name.urdf`
+
+## Date 24-03-2021
+* Generate Trajectory for the simulation
+* Try to solve pick and place in 4 steps
+     * Position by inverse Kinematics and apply PID control
+     * Grasp the Object
+     * Pick up the object
+     * place to next desired post
