@@ -5,3 +5,5 @@
 - ![](https://github.com/IvLabs/manipulation/blob/main/pick_place_Results/y_vs_t.png)
 
 - ![](https://github.com/IvLabs/manipulation/blob/main/pick_place_Results/z_vs_t.png)
+
+- ![](https://github.com/IvLabs/manipulation/blob/main/pick_place_Results/pick_place.mp4)
