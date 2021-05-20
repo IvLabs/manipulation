@@ -8,7 +8,7 @@ Control a Robotic arm and perform tasks autonomously
  
  - Forward kinematics 
  - Inverse kinematics 
- - Dynamatics
+ - Dynamics
  
  
  # Forward Kinematics 
@@ -26,6 +26,7 @@ To calculate forward kinematic, we can use simple trigonometry or denavit harten
    
 
 # Dynamics
+  For a robotic manipulator, the dynamic model defines the relationship between joint position qi, angular velocity q˙i, and angular acceleration q¨i to torque τi necessary to achieve desired position, velocity, and acceleration.
   
  
  
