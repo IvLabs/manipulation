@@ -1,4 +1,4 @@
-# manipulation
+# Manipulation 
 Control a Robotic arm and perform tasks autonomously
 
 
@@ -12,6 +12,9 @@ Control a Robotic arm and perform tasks autonomously
  
  
  # Forward Kinematics 
+
+
+ # Inverse Kinematics 
  
  
  
