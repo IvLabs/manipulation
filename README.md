@@ -15,7 +15,9 @@ Control a Robotic arm and perform tasks autonomously
 
 
  # Inverse Kinematics 
- 
+   Inverse kinematics is about calculating the angles of joints (i.e. angles of the servo motors on a robotic arm) that will cause the end effector of a robotic arm (e.g. robotics gripper ) to reach some desired position (x, y, z) in 3D space. 
+   
+  
  
  
  
