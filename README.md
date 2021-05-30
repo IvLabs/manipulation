@@ -28,7 +28,8 @@ Control a Robotic arm and perform tasks autonomously
   
  # Pick and Place
   Here our aim was to pick a box and place to another position,given that intial box position and final box position is known. We have applied velocity control to manuver the arm from intial to final position
-  ![picknplace](https://github.com/IvLabs/manipulation/blob/main/pick_place_Results/pick-place.gif)
+  
+ ![picknplace](https://github.com/IvLabs/manipulation/blob/main/pick_place_Results/pick-place.gif)
 |x vs t   | y vs t   | z vs t|
 |:-------:|:--------:|:-----:|
 |![](/pick_place_Results/x_vs_t.png)|![](/pick_place_Results/x_vs_t.png)|![](/pick_place_Results/x_vs_t.png)|
