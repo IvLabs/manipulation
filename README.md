@@ -27,7 +27,7 @@ Control a Robotic arm and perform tasks autonomously
 |:----------------------------------------------------------------------------|------------------------------------------------------------------------:|
 
 # Dynamics
-  Robot dynamics studies the relation between robot motion and forces and moments acting on the robot. For a robotic manipulator, the dynamic model defines the relationship between joint position qi, angular velocity q˙i, and angular acceleration q¨i to torque τi necessary to achieve desired position, velocity, and acceleration.
+  Robot dynamics studies the relation between robot motion and forces and moments acting on the robot. For a robotic manipulator, the dynamic model defines the relationship between joint position **q<sub>i</sub>**, angular velocity **q˙<sub>i</sub>**, and angular acceleration **q¨<sub>i</sub>** to torque **τ<sub>i</sub>** necessary to achieve desired position, velocity, and acceleration.
   
  # Pick and Place
   Our aim was to pick a box and place to another position, given that intial and final box position. We have applied velocity control to maneuver the arm from intial to final position
