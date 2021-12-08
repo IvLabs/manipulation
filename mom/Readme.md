@@ -12,6 +12,7 @@
 - [Date 09-03-2021](#date-09-03-2021)
 - [Date 24-03-2021](#date-24-03-2021)
 - [Date 28-04-2021](#date-28-04-2021)
+- [Date 03-12-2021](#date-03-12-2021)
 
 
 ## Date 22-10-2020
@@ -144,7 +145,7 @@
 
 ## MoM Manipulator robotics (Date 03-12-21 Onwards)
 
-## 03-12-21
+## Date 03-12-2021
 
 Starting from the basics- 
 7 lectures-https://www.youtube.com/playlist?list=PL64324A3B147B5578
