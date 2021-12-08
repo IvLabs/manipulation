@@ -141,3 +141,14 @@
      * Grasp the Object
      * Pick up the object
      * place to next desired post
+
+MoM Manipulator robotics
+
+## Date 03-12-21 Onwards
+
+## 03-12-21
+
+Starting from the basics- 
+7 lectures-https://www.youtube.com/playlist?list=PL64324A3B147B5578
+Ask doubts as they come on the server
+			Add notes and move MoM to Github repo
