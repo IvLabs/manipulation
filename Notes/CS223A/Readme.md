@@ -12,3 +12,5 @@
 - [Lecture 13](https://drive.google.com/file/d/1IUtrdatkbCQo71--ZMysK1AwT-f9h_XR/view?usp=sharing)
 - [Lecture 14,15,16](https://drive.google.com/file/d/1PaQA9vgK7j6BHDflWbzzMXUZhFVfaE2k/view?usp=sharing)
 
+### Individual notes
+- [Aniket Turkel](https://hackmd.io/@aniketturkelHMD/BywkoetYt)
