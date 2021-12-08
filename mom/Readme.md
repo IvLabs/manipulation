@@ -142,9 +142,7 @@
      * Pick up the object
      * place to next desired post
 
-MoM Manipulator robotics
-
-## Date 03-12-21 Onwards
+## MoM Manipulator robotics (Date 03-12-21 Onwards)
 
 ## 03-12-21
 
