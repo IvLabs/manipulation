@@ -147,7 +147,7 @@
 
 ## Date 03-12-2021
 
-Starting from the basics- 
-7 lectures-https://www.youtube.com/playlist?list=PL64324A3B147B5578
-Ask doubts as they come on the server
-			Add notes and move MoM to Github repo
+* Starting from the basics- 
+* 7 lectures-https://www.youtube.com/playlist?list=PL64324A3B147B5578
+* Ask doubts as they come on the server
+* Add notes and move MoM to Github repo
