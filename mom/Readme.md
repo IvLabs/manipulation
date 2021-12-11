@@ -151,3 +151,8 @@
 * 7 lectures-https://www.youtube.com/playlist?list=PL64324A3B147B5578
 * Ask doubts as they come on the server
 * Add notes and move MoM to Github repo
+
+## Date 11-12-2021
+* Complete the lectures till 8th lec
+* Target- forward kinematics implementation of RRR arm using SymPy library and visualizing it on Matplotlib 
+
