@@ -13,7 +13,7 @@
 - [Date 24-03-2021](#date-24-03-2021)
 - [Date 28-04-2021](#date-28-04-2021)
 - [Date 03-12-2021](#date-03-12-2021)
-
+- [Date 11-12-2021](#date-11-12-2021)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -153,6 +153,6 @@
 * Add notes and move MoM to Github repo
 
 ## Date 11-12-2021
-* Complete the lectures till 8th lec
+* Complete the course till 8th lec and upload the notes
 * Target- forward kinematics implementation of RRR arm using SymPy library and visualizing it on Matplotlib 
 
