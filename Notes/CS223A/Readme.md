@@ -15,3 +15,4 @@
 ### Individual notes
 - [Aniket Turkel](https://hackmd.io/@aniketturkelHMD/BywkoetYt)
 - [Yash Gaikwad](https://hackmd.io/@ssf-vnzUTa2JZqgg9oiCyw/HyYPrpb5Y)
+- [Malhar Limaye](https://drive.google.com/drive/folders/1wFO8oQugJmNfkHHgDgS8OzRM3A-pJAmB?usp=sharing)
