@@ -14,6 +14,7 @@
 - [Date 28-04-2021](#date-28-04-2021)
 - [Date 03-12-2021](#date-03-12-2021)
 - [Date 11-12-2021](#date-11-12-2021)
+- [Date 15-12-2021](#date-15-12-2021)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -156,3 +157,6 @@
 * Complete the course till 8th lec and upload the notes
 * Target- forward kinematics implementation of RRR arm using SymPy library and visualizing it on Matplotlib 
 
+## Date 15-12-2021
+
+* Task on Reverse kinematics and implementing Newton-Raphsons method
