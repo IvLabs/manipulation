@@ -159,4 +159,9 @@
 
 ## Date 15-12-2021
 
-* Task on Reverse kinematics and implementing Newton-Raphsons method
+* Task on Reverse kinematics by implementing Newton-Raphson's method
+
+## Date 17-12-2021
+
+* Install pybullet.
+* Upload the results of Inverse Kinematics problem.
