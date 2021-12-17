@@ -13,6 +13,6 @@
 - [Lecture 14,15,16](https://drive.google.com/file/d/1PaQA9vgK7j6BHDflWbzzMXUZhFVfaE2k/view?usp=sharing)
 
 ### Individual notes
-- [Aniket Turkel](https://hackmd.io/@aniketturkelHMD/BywkoetYt)
+- [Aniket Turkel](https://drive.google.com/drive/folders/1_9unu-qYRZn8ZIQpFMof7F3ZFUxD-Ujo?usp=sharing)
 - [Yash Gaikwad](https://hackmd.io/@ssf-vnzUTa2JZqgg9oiCyw/HyYPrpb5Y)
 - [Malhar Limaye](https://drive.google.com/drive/folders/1wFO8oQugJmNfkHHgDgS8OzRM3A-pJAmB?usp=sharing)
