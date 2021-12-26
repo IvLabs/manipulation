@@ -166,3 +166,16 @@
 
 * Install pybullet.
 * Upload the results of Inverse Kinematics problem.
+
+## Date 21-12-2021:
+
+* Complete Pybullet FK and IK implementations.
+* PyBullet advantages
+* How does pybullet implement, working of pybullet etc.
+* See PyBullet QuickStart Guide
+
+## Date 26-12-2021:
+* Make and keep Documentation of the project, useful for future work
+* Find a way to implement PID controller in python:(check videos before)
+* https://youtu.be/HFXdcImAwv4 
+* https://youtu.be/COWaaCknkcY
