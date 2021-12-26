@@ -16,6 +16,8 @@
 - [Date 11-12-2021](#date-11-12-2021)
 - [Date 15-12-2021](#date-15-12-2021)
 - [Date 17-12-2021](#date-17-12-2021)
+- [Date 21-12-2021](#date-21-12-2021)
+- [Date 26-12-2021](#date-26-12-2021)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
