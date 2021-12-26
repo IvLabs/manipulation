@@ -173,7 +173,7 @@
 
 * Complete Pybullet FK and IK implementations.
 * PyBullet advantages
-* How does pybullet implement, working of pybullet etc.
+* How does pybullet implement IK, working of pybullet IK.
 * See PyBullet QuickStart Guide
 
 ## Date 26-12-2021:
