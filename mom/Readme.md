@@ -162,7 +162,7 @@
 
 ## Date 15-12-2021
 
-* Task on Reverse kinematics by implementing Newton-Raphson's method
+* Task on Inverse kinematics by implementing Newton-Raphson's method
 
 ## Date 17-12-2021
 
