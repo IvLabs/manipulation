@@ -18,6 +18,7 @@
 - [Date 17-12-2021](#date-17-12-2021)
 - [Date 21-12-2021](#date-21-12-2021)
 - [Date 26-12-2021](#date-26-12-2021)
+- [DAte 05-01-2021](#date-05-01-2021)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -181,3 +182,9 @@
 * Find a way to implement PID controller in python:(check videos before)
 * https://youtu.be/HFXdcImAwv4 
 * https://youtu.be/COWaaCknkcY
+
+## Date 05-01-2021:
+* Implement Pick and place using force and velocity control.
+* Pid is a resort if that didn’t work out.
+* Try using pybullet.velocitycontrol mode.
+* Make a trajectory which may account for a third control point which can represent an obstacle in the real world.
