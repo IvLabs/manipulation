@@ -183,8 +183,15 @@
 * https://youtu.be/HFXdcImAwv4 
 * https://youtu.be/COWaaCknkcY
 
-## Date 05-01-2021:
+## Date 05-01-2022:
 * Implement Pick and place using force and velocity control.
 * Pid is a resort if that didn’t work out.
 * Try using pybullet.velocitycontrol mode.
 * Make a trajectory which may account for a third control point which can represent an obstacle in the real world.
+
+## Date 09-01-2022
+* Put all results on a Github repo
+* Velocity Control-Use the resources on channel
+* Finish the Lectures from Ossama series
+* Next meet at 19th
+* Moving to next Phase
