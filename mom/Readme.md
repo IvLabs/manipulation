@@ -190,8 +190,9 @@
 * Make a trajectory which may account for a third control point which can represent an obstacle in the real world.
 
 ## Date 09-01-2022
-* Put all results on a Github repo
+* Put all results on a Github repo with proper presentation
 * Velocity Control-Use the resources on channel
-* Finish the Lectures from Ossama series
+* Finish the Lectures from Stanford intro to robotics series
 * Next meet at 19th
+* Implement dinamics if possible
 * Moving to next Phase
