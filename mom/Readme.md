@@ -195,5 +195,5 @@
 * Velocity Control-Use the resources on channel
 * Finish the Lectures from Stanford intro to robotics series
 * Next meet at 19th
-* Implement dinamics if possible
+* Implement dynamics if possible
 * Moving to next Phase
