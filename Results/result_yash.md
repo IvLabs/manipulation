@@ -9,11 +9,13 @@
 * Line trajectory following using pybullet simulation
 
 ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/73688295/149339312-7227f943-2f0b-41bb-9a14-4da19f0299be.gif)
+* Curve trajectory using pybullet
 
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73688295/149615731-f1ce9da2-fbd3-442c-9a8f-3edb08e589dc.gif)
 
 * Pick and place using pybullet simulation 
 
 
 
 ![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/73688295/149339334-0fe3c991-b3f1-45c7-bdd8-dbd11484930c.gif)
+ 
