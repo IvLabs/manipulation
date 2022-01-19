@@ -20,6 +20,7 @@
 - [Date 26-12-2021](#date-26-12-2021)
 - [Date 05-01-2022](#date-05-01-2022)
 - [Date 09-01-2022](#date-09-01-2022)
+- [Date 19-01-2022](#date-19-01-2022)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -171,20 +172,20 @@
 * Install pybullet.
 * Upload the results of Inverse Kinematics problem.
 
-## Date 21-12-2021:
+## Date 21-12-2021
 
 * Complete Pybullet FK and IK implementations.
 * PyBullet advantages
 * How does pybullet implement IK, working of pybullet IK.
 * See PyBullet QuickStart Guide
 
-## Date 26-12-2021:
+## Date 26-12-2021
 * Make and keep Documentation of the project, useful for future work
 * Find a way to implement PID controller in python:(check videos before)
 * https://youtu.be/HFXdcImAwv4 
 * https://youtu.be/COWaaCknkcY
 
-## Date 05-01-2022:
+## Date 05-01-2022
 * Implement Pick and place using force and velocity control.
 * Pid is a resort if that didn’t work out.
 * Try using pybullet.velocitycontrol mode.
@@ -197,3 +198,11 @@
 * Next meet at 19th
 * Implement dynamics if possible
 * Moving to next Phase
+
+## Date 19-01-2022
+
+Dynamics Books :
+* https://1lib.in/book/2802899/0c19ca
+* https://1lib.in/book/782106/1f55f4
+* These books doesn't explain the expressions from base, try derivative those expressions after reading from books then understand their use.
+* Lagrangian video: https://www.youtube.com/watch?v=1U6y_68CjeY
