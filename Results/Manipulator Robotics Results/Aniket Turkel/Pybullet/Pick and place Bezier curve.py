@@ -9,7 +9,7 @@ from sympy import Symbol
 import pybullet_data
 import matplotlib.pyplot as plt
 
-box_spawn_pos = [0.32,-0.568,0.85]
+box_spawn_pos = [0.32,-0.54,0.85]
 
 # Obtaining path function
 
@@ -18,7 +18,7 @@ u = Symbol('u')
 p0 = np.array([0.3,-0.5,1.2]) #Point 1
 #p0 = np.array([box_spawn_pos[0]+0.02,box_spawn_pos[1]+0.068,box_spawn_pos[2]+0.35]) #Initial point of the path
 p1 = np.array([0,-0.5,1.5]) #Point 2, Control point
-p2 = np.array([-0.3,-0.5,1.2]) #point 3
+p2 = np.array([-0.3,-0.6,1.2]) #point 3
 #p2 = np.array([-0.3,-0.3,1.2]) #Final position
 
 exprx = (1-u)**2 * p0[0] + 2*u*(1-u)* p1[0] + u**2 * p2[0]
@@ -75,11 +75,26 @@ count = 0
 
 a1,a2,a3 = [],[],[]
 
-time.sleep(5)
+time.sleep(10)
+
+#To avoid collision with obstacles
+
+lower_lim = [-1*m.pi(),-2*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi(),-1*m.pi()]
+upper_lim = [m.pi(),0,m.pi(),m.pi(),m.pi(),m.pi(),m.pi(),m.pi(),m.pi(),m.pi(),m.pi(),m.pi()]
+joint_range = revolute_joints
+rest_pos = [0,-1*m.pi(),0,0,0,0,0,0,0,0,0,0]
+
+# Setting initial position so that it does not collide with the table
+
+targetPositionsJoints = [0,-1*m.pi()/2,m.pi()/2,0,0,0,0,0,0,0,0,0]
+pybullet.setJointMotorControlArray(Robot, revolute_joints, pybullet.POSITION_CONTROL, targetPositions = targetPositionsJoints)
+for _ in range(100):
+    pybullet.stepSimulation()
+    time.sleep(1/100)
 
 #Hovering over box
 
-targetPositionsJoints = pybullet.calculateInverseKinematics(Robot, 8, p0, targetOrientation = orientation)
+targetPositionsJoints = pybullet.calculateInverseKinematics(Robot, 8, p0, targetOrientation = orientation, lowerLimits = lower_lim, upperLimits = upper_lim, jointRanges = joint_range, restPoses =rest_pos)
 pybullet.setJointMotorControlArray(Robot, revolute_joints, pybullet.POSITION_CONTROL, targetPositions = targetPositionsJoints)
 for _ in range(100):
     pybullet.stepSimulation()
@@ -173,16 +188,16 @@ for i in range(0, 100):
 
 #Leave box/open gripper
 #targetPositionsJoints[6],targetPositionsJoints[7],targetPositionsJoints[8],targetPositionsJoints[9]= -1*m.pi(),m.pi(),-1*m.pi(),m.pi() #Gripper angles to open
-pybullet.setJointMotorControlArray(Robot, revolute_joints, pybullet.POSITION_CONTROL, targetPositions = [targetPositionsJoints[0],targetPositionsJoints[1],targetPositionsJoints[2],targetPositionsJoints[3],targetPositionsJoints[4],targetPositionsJoints[5],-1*m.pi(),m.pi(),-1*m.pi(),m.pi(),targetPositionsJoints[10],targetPositionsJoints[11]]) #For moving the joints
-
-pybullet.stepSimulation()
-time.sleep(1/100)
+pybullet.setJointMotorControlArray(Robot, revolute_joints, pybullet.POSITION_CONTROL, targetPositions = [targetPositionsJoints[0],targetPositionsJoints[1],targetPositionsJoints[2],targetPositionsJoints[3],targetPositionsJoints[4],targetPositionsJoints[5],-1*m.pi(),0,-1*m.pi(),0,targetPositionsJoints[10],targetPositionsJoints[11]]) #For moving the joints
+for _ in range(100):
+    pybullet.stepSimulation()
+    time.sleep(1/100)
 
 #Rise in line form
 del_k = 0.01
 x,y = p2[0],p2[1]
 for i in range(0, 100):
-    z = p2[2] + 0.5*del_k*i
+    z = p2[2] + 0.2*del_k*i
     targetPositionsJoints = pybullet.calculateInverseKinematics(Robot, 7, [x,y,z])
     pybullet.setJointMotorControlArray(Robot, revolute_joints, pybullet.POSITION_CONTROL, targetPositions = targetPositionsJoints)
     
