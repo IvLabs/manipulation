@@ -206,3 +206,6 @@ Dynamics Books :
 * https://1lib.in/book/782106/1f55f4
 * These books doesn't explain the expressions from base, try derivative those expressions after reading from books then understand their use.
 * Lagrangian video: https://www.youtube.com/watch?v=1U6y_68CjeY
+
+## Date 02-02-2022
+* implementation of VC- issues: check workspace, proper tuning 
