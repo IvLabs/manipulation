@@ -11,10 +11,10 @@ import matplotlib.pyplot as plt
 
 box_spawn_pos = [0.32,-0.54,0.85]
 
-#p0 = np.array([0.3,-0.5,1.2]) #Point 1
 p0 = np.array([box_spawn_pos[0]-0.02,box_spawn_pos[1]+0.04,box_spawn_pos[2]+0.35]) #Initial point of the path
-p1 = np.array([0,-0.5,1.5]) #Point 2, Control point
 p2 = np.array([-0.3,-0.6,1.2]) #point 3
+
+p1 = np.array([(box_spawn_pos[0]+p2[0])/2,(box_spawn_pos[1]+p2[1]),(box_spawn_pos[2]+p2[2]+0.14+0.1)/2]) #Point 2, Control point depending on box position or any obstacle
 
 class manipulator:
     def __init__(self, spawn_pos, initial_pos, control_point, final_pos):
@@ -36,8 +36,6 @@ def bezier_function(p0,p1,p2):
     exprz = (1-u)**2 * p0[2] + 2*u*(1-u)* p1[2] + u**2 * p2[2]
 
     return(exprx,expry,exprz)
-
-#manipulator.bezier_path_func = bezier_function()
 
 def initial_setup(p0):
     #To avoid collision with obstacles
