@@ -21,6 +21,9 @@
 - [Date 05-01-2022](#date-05-01-2022)
 - [Date 09-01-2022](#date-09-01-2022)
 - [Date 19-01-2022](#date-19-01-2022)
+- [Date 26-01-2022](#date-26-01-2022)
+- [Date 02-02-2022](#date-02-02-2022)
+- [Date 04-02-2022](#date-04-02-2022)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -207,8 +210,21 @@ Dynamics Books :
 * These books doesn't explain the expressions from base, try derivative those expressions after reading from books then understand their use.
 * Lagrangian video: https://www.youtube.com/watch?v=1U6y_68CjeY
 ## Date 26-01-2022
+* Velocity control doubts
+* Try increasing the gains
+
 ## Date 02-02-2022
-* implementation of VC- issues: check workspace, proper tuning 
+* Implementation of VC- issues: check workspace, proper tuning
+* To complete velocity control first
+
+
 ## Date 04-02-2022
 * Start Implementation of Torque control
-* Use PD controller
+* Use PD controller for torque values.
+* Control Mode: Torque control
+* PD controller error term based based on distance.
+
+
+
+
+
