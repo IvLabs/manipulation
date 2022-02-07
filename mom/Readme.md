@@ -24,6 +24,7 @@
 - [Date 26-01-2022](#date-26-01-2022)
 - [Date 02-02-2022](#date-02-02-2022)
 - [Date 04-02-2022](#date-04-02-2022)
+- [Date 07-02-2022](#date-07-02-2022)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -223,6 +224,13 @@ Dynamics Books :
 * Use PD controller for torque values.
 * Control Mode: Torque control
 * PD controller error term based based on distance.
+
+## Date 07-02-2022
+
+* Computed torque control
+* Book ‘modern robotics’ over this topic
+* Stiffness control, find scholarly papers or books related to stiffness control
+
 
 
 
