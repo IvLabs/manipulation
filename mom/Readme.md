@@ -26,6 +26,7 @@
 - [Date 04-02-2022](#date-04-02-2022)
 - [Date 07-02-2022](#date-07-02-2022)
 - [Date 15-02-2022](#date-15-02-2022)
+- [Date 22-02-2022](#date-22-02-2022)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -240,6 +241,12 @@ Dynamics Books :
 * Coriolis force component already compensates for the gravity hence you must not add gravity component if you add the coriolis component,
 * Improve code readability/make it modular if possible (just a recommendation, helps several people to work together in a piece of code)
 
+### Date 22-02-2022
+
+* Explore Stiffness control and
+* Explore Impedence control.
+* Can explore Modern Robotics book on this
+* Try to complete before MSE.
 
 
 
