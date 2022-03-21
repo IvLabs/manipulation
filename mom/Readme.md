@@ -233,7 +233,7 @@ Dynamics Books :
 * Book ‘modern robotics’ over this topic
 * Stiffness control, find scholarly papers or books related to stiffness control
 
-### Date 15-02-2022
+## Date 15-02-2022
 
 * Don’t use a while loop within trajectory loop, otherwise it will stop and cause jerk because of large difference in error term in the next iteration of loop,
 * Even P-controller will work for simulations, PD is usually enough for most simulations,
@@ -241,12 +241,19 @@ Dynamics Books :
 * Coriolis force component already compensates for the gravity hence you must not add gravity component if you add the coriolis component,
 * Improve code readability/make it modular if possible (just a recommendation, helps several people to work together in a piece of code)
 
-### Date 22-02-2022
+## Date 22-02-2022
 
 * Explore Stiffness control and
 * Explore Impedence control.
 * Can explore Modern Robotics book on this
 * Try to complete before MSE.
 
+## Date 21-03-2022
+
+* Impedence control resources found in
+     * Book ‘Modern robotics’ topic impedence control, admittance control
+
+* Stiffness control some resources found in
+     * ‘Robotics modelling planning and control by springer’ book, in topic compliance control pg.no. 364
 
 
