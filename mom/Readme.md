@@ -28,7 +28,7 @@
 - [Date 15-02-2022](#date-15-02-2022)
 - [Date 22-02-2022](#date-22-02-2022)
 - [Date 21-03-2022](#date-21-03-2022)
-
+- [Date 11-05-2022](#date-11-05-2022)
 
 ## Date 22-10-2020
 * Mentors gave information about Osama Khalid.
@@ -258,4 +258,23 @@ Dynamics Books :
 * Stiffness control some resources found in
      * ‘Robotics modelling planning and control by springer’ book, in topic compliance control pg.no. 364
 
+## Date 11-05-2022
+
+* Which projects have you explored?
+* Malhar - Legged robotics - explored
+* Yash - Queries over projects - explored papers having amalgamation of several fields
+* Aniket - SFM and CV along with controls - not exactly explored
+
+Suggestions:
+1. E-waste sorting
+2. Bipedal
+3. Quadrupedal
+4. Parallel kinematic machines
+5. Locomotion - Motion predictive control
+
+* Can work in collaboration with seniors - Nachiket sir
+
+* Hardware Control - Ros build, Java interface - without inbuilt functions
+
+* Change/make the github of Manipulator robotics - detailed / attractive
 
