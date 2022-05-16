@@ -270,7 +270,7 @@ Suggestions:
 2. Bipedal
 3. Quadrupedal
 4. Parallel kinematic machines
-5. Locomotion - Motion predictive control
+5. Locomotion - Model predictive control
 
 * Can work in collaboration with seniors - Nachiket sir
 
